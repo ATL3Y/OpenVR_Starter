@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{D72627D7-1811-B13D-42A9-2DED44A6E0FA}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/XR/XRRig.cs">
+    <Files>
+      <File FileName="Assets/XR/XRNodeData.cs" Line="43" Column="37" />
+      <File FileName="Assets/XR/XRRig.cs" Line="7" Column="28" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
